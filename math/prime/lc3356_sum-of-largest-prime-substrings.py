@@ -30,3 +30,4 @@ if __name__ == "__main__":
     sol = Solution()
     s = "12234"
     print(sol.sumOfLargestPrimes(s))  # 11
+    
