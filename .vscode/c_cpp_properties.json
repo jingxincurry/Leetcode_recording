@@ -3,7 +3,7 @@
     "configurations": [
         {
             "name": "Win32",
-            "compilerPath": "D:/vscode/mingw-x86_64-8.1.0/bin/g++.exe",
+            "compilerPath": "D:/msys64/mingw64/bin/g++.exe",
             "intelliSenseMode": "windows-gcc-x64",
             "cStandard": "c11",
             "cppStandard": "c++17",
