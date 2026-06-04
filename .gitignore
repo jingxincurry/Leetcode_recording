@@ -1,2 +1,3 @@
 # Ignore C++ build outputs
 *.exe
+.vscode/
